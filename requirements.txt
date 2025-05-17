@@ -11,4 +11,7 @@ imblearn==0.0
 xgboost==1.6.2
 seaborn
 catboost
+certifi
+fastapi
+uvicorn
 -e .   #editable mode 
